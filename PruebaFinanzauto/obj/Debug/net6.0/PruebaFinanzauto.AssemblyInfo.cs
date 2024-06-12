@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaFinanzauto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7faec1d21058932e623fbdb74a75f605858912a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaFinanzauto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaFinanzauto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -4,6 +4,8 @@ using Microsoft.SqlServer.Server;
 using PruebaFinanzauto.DTO;
 using PruebaFinanzauto.Interfaces;
 using PruebaFinanzauto.Model;
+using System.Collections;
+using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Globalization;
 
@@ -39,27 +41,34 @@ namespace PruebaFinanzauto.Controllers
         {
             try
             {
-                string[] pag;
+                ArrayList pag= new ArrayList();
                 var list=new List<Student>(); ;
                 var aux = _student.ListStudent();
                 var count = 0;
                 for (int i=0;i< aux.LongCount(); i++)
                 {
-                    if (count <= 25)
+                    if (count <= 5)
                     {
-                        list = new List<Student>();
+                        
                         list.Add(aux[i]);
+                        count ++;
                     }
                     else
                     {
-                        //pag.Append(list);
+                        pag.Add(list);
                         count = 0;
+                        list = new List<Student>();
+                    }
+
+                    if(i== aux.LongCount()-1)
+                    {
+                        pag.Add(list);
                     }
                     
                     
                 }
-                //return Ok(pag);
-                return Ok();
+                return Ok(pag);
+                
 
 
             }

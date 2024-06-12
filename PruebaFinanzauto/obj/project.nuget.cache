@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3JHk8INd7PnooI4TGJ74BlMmB4GyNOi7nT6qwOgy1tX3EpVv2xm4coh1s/bSW3gX/rLu+B6nwiDzEjYALJGUNQ==",
+  "dgSpecHash": "0fZDMXDkhVr8iMjlXZY7iIdrY30P4WWnCmNQp3eXlfWcg6UmBSN6Fwfq8vTQwxb8dTzR/PmOlAHiPS/RyCOEcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\PruebaFinanzauto.csproj",
+  "projectFilePath": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\PruebaFinanzauto.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\migue\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\migue\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

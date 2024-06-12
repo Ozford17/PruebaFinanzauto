@@ -1,61 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\",
+  "WorkspaceRootPath": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\pruebafinanzauto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:pruebafinanzauto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\pruebafinanzauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:pruebafinanzauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:dto\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:interfaces\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\migrations\\20240612154741_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\pruebafinanzauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:pruebafinanzauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:data\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\migrations\\20240612154741_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:migrations\\20240612154741_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\migrations\\20240612164412_tercera migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\migrations\\20240612164412_tercera migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:migrations\\20240612164412_tercera migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\migrations\\20240612155300_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\migrations\\20240612155300_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:migrations\\20240612155300_second migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\miguel\\c#\\pruebafinanzauto\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|c:\\users\\migue\\desktop\\pruebafinanzauto\\pruebafinanzauto\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DDC772B-4497-4CF4-9807-BD421A2FA082}|PruebaFinanzauto.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,27 +62,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PruebaFinanzauto",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\PruebaFinanzauto.csproj",
-              "RelativeDocumentMoniker": "PruebaFinanzauto.csproj",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\PruebaFinanzauto.csproj",
-              "RelativeToolTip": "PruebaFinanzauto.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-12T18:16:27.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "IStudent.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Interfaces\\IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Interfaces\\IStudent.cs",
               "RelativeDocumentMoniker": "Interfaces\\IStudent.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Interfaces\\IStudent.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Interfaces\\IStudent.cs",
               "RelativeToolTip": "Interfaces\\IStudent.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAADwvwsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +79,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "StudentDTO.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\DTO\\StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\DTO\\StudentDTO.cs",
               "RelativeDocumentMoniker": "DTO\\StudentDTO.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\DTO\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\DTO\\StudentDTO.cs",
               "RelativeToolTip": "DTO\\StudentDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -108,146 +92,136 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Controllers\\StudentController.cs",
               "RelativeToolTip": "Controllers\\StudentController.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAYwD0AAAAaAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAmwEAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T15:33:35.934Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Repository\\StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Repository\\StudentRepository.cs",
               "RelativeDocumentMoniker": "Repository\\StudentRepository.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Repository\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Repository\\StudentRepository.cs",
               "RelativeToolTip": "Repository\\StudentRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:37:18.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20240612155300_Second Migration.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Migrations\\20240612155300_Second Migration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240612155300_Second Migration.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Migrations\\20240612155300_Second Migration.cs",
-              "RelativeToolTip": "Migrations\\20240612155300_Second Migration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:00:48.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ApiDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Data\\ApiDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApiDbContext.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Data\\ApiDbContext.cs",
-              "RelativeToolTip": "Data\\ApiDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:24:33.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PruebaFinanzauto",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\PruebaFinanzauto.csproj",
-              "RelativeDocumentMoniker": "PruebaFinanzauto.csproj",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\PruebaFinanzauto.csproj",
-              "RelativeToolTip": "PruebaFinanzauto.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-12T15:12:45.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T15:37:18.149Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20240612164412_Tercera Migration.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Migrations\\20240612164412_Tercera Migration.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240612164412_Tercera Migration.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Migrations\\20240612164412_Tercera Migration.cs",
-              "RelativeToolTip": "Migrations\\20240612164412_Tercera Migration.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Title": "20240612155300_Second Migration.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Migrations\\20240612155300_Second Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240612155300_Second Migration.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Migrations\\20240612155300_Second Migration.cs",
+              "RelativeToolTip": "Migrations\\20240612155300_Second Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T16:44:33.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T17:00:48.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Data\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApiDbContext.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Data\\ApiDbContext.cs",
+              "RelativeToolTip": "Data\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:24:33.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PruebaFinanzauto.csproj",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\PruebaFinanzauto.csproj",
+              "RelativeDocumentMoniker": "PruebaFinanzauto.csproj",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\PruebaFinanzauto.csproj",
+              "RelativeToolTip": "PruebaFinanzauto.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T15:12:45.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "20240612164412_Tercera Migration.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Migrations\\20240612164412_Tercera Migration.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240612164412_Tercera Migration.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Migrations\\20240612164412_Tercera Migration.cs",
+              "RelativeToolTip": "Migrations\\20240612164412_Tercera Migration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:44:33.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "20240612154741_First Migration.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Migrations\\20240612154741_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Migrations\\20240612154741_First Migration.cs",
               "RelativeDocumentMoniker": "Migrations\\20240612154741_First Migration.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Migrations\\20240612154741_First Migration.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Migrations\\20240612154741_First Migration.cs",
               "RelativeToolTip": "Migrations\\20240612154741_First Migration.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:00:32.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T17:00:32.696Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Model\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Model\\Student.cs",
               "RelativeDocumentMoniker": "Model\\Student.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Model\\Student.cs",
               "RelativeToolTip": "Model\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T16:07:33.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-12T15:44:37.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T16:07:33.633Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:12:37.692Z",
-              "EditorCaption": ""
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T15:44:37.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:12:37.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\migue\\Desktop\\Miguel\\C#\\PruebaFinanzauto\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\migue\\Desktop\\PruebaFinanzauto\\PruebaFinanzauto\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:33:18.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T15:33:18.464Z"
             }
           ]
         }
